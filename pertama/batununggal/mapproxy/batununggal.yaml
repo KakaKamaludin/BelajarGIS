@@ -52,7 +52,7 @@ sources:
       map: D:\git\quis 4\andir\mapfile\batununggal.map
       transparent: true
     coverage:
-      bbox: [107.624377, -6.947306, 107.643238, -6.908707]
+      bbox: [107.580936, -6.946401, 107.601278, -6.919195]
       srs: 'EPSG:4326'
     mapserver:
       binary: C:\ms4w\Apache\cgi-bin\mapserv.exe
